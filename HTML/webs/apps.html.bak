@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="../css/app.css">
+    <script>
+        function ak() 
+    
+    {
+         alert("𝗖𝗟𝗜𝗖𝗞 ❞ 𝗛𝗔𝗖𝗞𝗘𝗗 𝗔𝗣𝗞 𝗣𝗥𝗢𝗩𝗜𝗗𝗘𝗥 ❞"); 
+    
+    }
+    </script>
+    <title>Apps</title>
+</head>
+<body>
+    <div class="maindiv">
+        <a href="../index.html"><h1 align="center" >HOME</h1></a>
+    </br>
+        <label>Enter Your Required App </label>
+        <input type="text" >
+        <input onclick="ak()" type="submit" value="Search">
+    </br>
+    <h2 ">
+       LIST OF APPS
+    </h2>
+    </br>
+    <li><a href="https://moddroid.co/picsart-gold-mods-165.html">Picsart</a></li>
+    <li><a href="https://apkdone.com/playit/">Playit</a></li>
+    <li><a href="https://apkmody.io/apps/truecaller">Truecaller</a></li>
+    <li><a href="https://moddroid.co/camscanner.html">CamScanner</a></li>
+    <li><a href="https://www.digitbin.com/whatsapp-mod/">Whatsapp</a></li>
+    <li><a href="https://vancedapp.com/">Youtube</a></li>
+    <li><a href="https://moddroid.co/expressvpn-4.html">Express VPN</a></li>
+    <li><a href="https://an1.com/5786-spotify.html">Spotify</a></li>
+    <li><a href="https://www.torproject.org/download/">TOR Browser</a></li>
+    <li><a href="https://techbigs.com/telegram-1.html">Telegram </a></li>
+    <li><a href="https://apkmody.io/apps/utorrent-pro">U Torrent </a></li>
+    <li><a href="https://apkdone.com/kinemaster-app/">KineMaster</a></li>
+    <li><a href="https://moddroid.co/wps-office.html">WPS Office</a></li>
+    <li><a href="https://moddroid.co/mx-player-pro-mod.html">MX Player</a></li>
+    <li><a href="https://apkbigs.com/insta-pro-apk/">Instagram</a></li>
+    <li><a href="https://moddude.com/snapchat-mod-apk/">Snapchat</a></li>
+    <li><a href="https://apkmody.io/apps/netflix-mod-apk">Netflix</a></li>
+    <li><a href="https://apkdone.com/amazon-prime-video/">Amazon Prime </a></li>
+
+    <h2>FOR  MORE APPS  </h2></br>
+    <a href="https://an1.com">❰❰❬❰❰❰❨❨HACKED APK PROVIDER❩❩❱❱❱❭❱❱</a>
+    </div>
+    
+</body>
+
+</html>
